@@ -1,4 +1,4 @@
-# Ames House Price Prediction Model
+# Ames House Price Exploration and Advertisement Dataset Analysis
 
 ## Overview
 This project focuses on developing a predictive model for house prices in the Ames area. The project is divided into two main directories: 
@@ -15,7 +15,7 @@ The `Data Exploration and Cleaning` directory contains files related to the init
 - `Final_Ames_data.csv`: The final preprocessed dataset ready for modeling.
 - `data_preprocessing.ipynb`: Jupyter notebook containing the code for data exploration and cleaning.
 
-## Regression Analysis
+## Regression Analysis for different dataset
 The `Regression Analysis` directory contains files related to building and evaluating regression models for predicting house prices:
 
 - `Advertising.csv`: Dataset containing advertising spending and sales data.
@@ -29,7 +29,7 @@ The `Regression Analysis` directory contains files related to building and evalu
 ## Usage
 To reproduce the results of this project, follow these steps:
 1. Navigate to the `Data Exploration and Cleaning` directory and run the `data_preprocessing.ipynb` notebook.
-2. Proceed to the `Regression Analysis` directory and run the `linearRegression.ipynb` notebook for simple linear regression analysis or `polynomialRegression.ipynb` for polynomial regression analysis.
+2. Proceed to the new `Regression Analysis` directory and run the `linearRegression.ipynb` notebook for simple linear regression analysis or `polynomialRegression.ipynb` for polynomial regression analysis.
 
 ## Contributors
 - Shashank: Project Developer
